@@ -1,0 +1,24 @@
+body{
+    /* background-color: rgb(17, 201, 201); */
+    background-image: url(pexels-pixabay-356056.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heaging2{
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+h1{
+    color: blue;
+}
+#headingfirst{
+    font-size: 50px;
+}
+.heaging2{
+    color: rgb(0, 0, 0);
+}
+#heading3{
+    color: gray;font-size: 52px;
+}
